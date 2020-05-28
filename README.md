@@ -75,7 +75,7 @@ At this step we compare and choose the best dataset to work with
 * Exploring a few models considering different features and hyperparameters
 * Visualizing scatter plots of each feature with the probabilities of leaving
 
-![alt text](https://github.com/FarnazG/project003/blob/master/images/customer_service_calls.png)
+![alt text](https://github.com/FarnazG/project003/blob/master/images/customer-service-calls.png)
 
 ![alt text](https://github.com/FarnazG/project003/blob/master/images/total-day-charge.png)
 
@@ -150,7 +150,7 @@ most important features:
 * Model Test Data Accuracy: 0.738 
 * Model Test Data AUC: 0.845
   
-![alt text](https://github.com/FarnazG/project003/blob/master/images/confusion_matrix.png)
+![alt text](https://github.com/FarnazG/project003/blob/master/images/confusion-matrix.png)
 
 ![alt text](https://github.com/FarnazG/project003/blob/master/images/model-ROC-curve.png)
 
